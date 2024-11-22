@@ -1,7 +1,3 @@
-Here's a more detailed version of the README:
-
----
-
 # Titanic Dataset Machine Learning
 
 This project demonstrates how to use machine learning to predict whether a passenger survived the Titanic disaster based on certain features. The goal is to create a predictive model using Logistic Regression.
