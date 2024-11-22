@@ -74,6 +74,3 @@ This project demonstrates how to use machine learning to predict whether a passe
 
 This project demonstrates the basic steps of preparing data, training a logistic regression model, and making predictions. You can further evaluate the model's performance by using accuracy metrics such as precision, recall, and F1-score.
 
----
-
-This README provides a detailed step-by-step explanation of the code and its functionality.
